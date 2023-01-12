@@ -1,0 +1,55 @@
+.background{
+    background-image: url('background_canvas.jpeg');
+    margin: auto;
+   
+    background-position: center;
+    background-size: cover;
+}
+.beterraba{
+    text-align: center;
+}
+h1{
+    color: rgb(0, 136, 255);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+#meuCanvas{
+
+    border-width: 10px;
+    background-color:beige;
+    border-style:ridge;
+    border-color: rgb(76, 74, 74);
+}
+.batata{
+    text-align: right;
+}
+span{
+    font-size: 20px;
+    color: rgb(0, 136, 255);
+    
+}
+#btblue{
+    background-color: blue;
+    width: 40px;
+    height: 40px;
+}
+#btgreen{
+    background-color: green;
+    width: 40px;
+    height: 40px;
+}
+#btyellow{
+    background-color: yellow;
+    width: 40px;
+    height: 40px;
+}
+#btred{
+    background-color: red;
+    width: 40px;
+    height: 40px;
+}
+#btblack{
+    background-color: black;
+    width: 40px;
+    height: 40px;
+}
